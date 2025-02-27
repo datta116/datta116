@@ -31,7 +31,15 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Datta&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph" />
 
-###
+</div>
+<div align= "center">
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br>
+</div>
+
 
 
