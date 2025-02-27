@@ -38,10 +38,11 @@
   </div>
 
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K-Datta&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph" />
- 
 </div>
+-->
 
 
 <div align = "center">
