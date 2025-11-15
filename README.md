@@ -12,9 +12,8 @@
 ###
 
 <div align="center">
-  <div align="left-center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=500&color=A7A459&center=truee&vCenter=truee&multiline=false&repeat=false&random=false&width=300&height=40&lines=Skills" alt="Skills" />
-  </div>
+  <img align = "center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=500&color=A7A459&center=truee&vCenter=truee&multiline=false&repeat=false&random=false&width=300&height=40&lines=Skills" alt="Skills" />
+   
   <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="mssql logo"  />
 <img width="12" />
