@@ -27,7 +27,7 @@
   <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="powerbi logo"  />
 <img width="12" />
-<img src="https://www.svgrepo.com/svg/452066/ms-excel" height="30" alt="excel logo"  />
+<img src="C:\Users\ksaid\Downloads\ms-excel-svgrepo-com.svg" height="30" alt="excel logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="30" alt="tableau logo"  />
 </div>
