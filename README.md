@@ -59,8 +59,8 @@
 
 <!-- ======================= SKILLS ======================= -->
 
-<div align="left-center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=A7A459&width=220&height=40&lines=Skills" alt="Skills" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=A7A459&width=220&height=40&lines=Technical Skills" alt="Skills" />
   
   <br><br>
 
@@ -76,17 +76,14 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=A7A459&width=220&height=40&lines=Tools" alt="Tools" />
-
   <br><br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_BI_logo.svg" height="40" alt="Power BI Logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" height="40" alt="Excel Logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tableau_Logo.svg" height="40" alt="Tableau Logo" />
 </div>
 
-<br><br>
 
 
 <!-- ======================= CONTACT ======================= -->
