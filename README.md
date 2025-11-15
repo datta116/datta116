@@ -25,11 +25,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=A7A459&center=false&vCenter=false&multiline=false&repeat=false&random=false&width=450&height=40&lines=Tools" alt="Tools" />
   <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="powerbi logo"  />
-<img width="12" />
-<img src="C:\Users\ksaid\Downloads\ms-excel-svgrepo-com.svg" height="30" alt="excel logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="30" alt="tableau logo"  />
+<!-- Excel -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" height="35" alt="Excel" />
+
+<!-- Power BI -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" height="35" alt="Power BI" />
 </div>
 <br> <br>
 
