@@ -22,18 +22,6 @@
 </div>
 <br> <br>
 
-<div align="center">
-  <div align ="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=500&color=A7A459&center=truee&vCenter=falsee&multiline=false&repeat=false&random=false&width=450&height=40&lines=Tools" alt="Tools" />
-  </div>
-  <br>
-<!-- Excel -->
-<img src="https://cdn.statically.io/gh/devicons/devicon/master/icons/excel/excel-original.svg" height="35" alt="Excel" />
-
-<!-- Power BI -->
-<img src="https://cdn.statically.io/gh/devicons/devicon/master/icons/powerbi/powerbi-original.svg" height="35" alt="Power BI" />
-<br> <br>
-
 <div align = center>
   <img align = "cener" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=D14836&center=false&vCenter=false&multiline=false&repeat=false&random=false&width=200&height=40&lines=Contact" alt="Contacts" />
   <br>
