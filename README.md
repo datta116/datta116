@@ -12,7 +12,9 @@
 ###
 
 <div align="center">
+  <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=A7A459&center=false&vCenter=false&multiline=false&repeat=false&random=false&width=300&height=40&lines=Skills" alt="Skills" />
+  </div>
   <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="mssql logo"  />
 <img width="12" />
@@ -25,7 +27,7 @@
   <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="powerbi logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="30" alt="excel logo"  />
+<img src="https://www.svgrepo.com/svg/452066/ms-excel" height="30" alt="excel logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="30" alt="tableau logo"  />
 </div>
