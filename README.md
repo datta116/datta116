@@ -12,8 +12,8 @@
 ###
 
 <div align="center">
-  <img align = "center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=500&color=A7A459&center=truee&vCenter=truee&multiline=false&repeat=false&random=false&width=300&height=40&lines=Skills" alt="Skills" />
-   
+  <img align = "center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=A7A459&center=false&vCenter=false&multiline=false&repeat=false&random=false&width=200&height=40&lines=Skills" alt="Skills" />
+   <!-- <img align = "cener" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=D14836&center=false&vCenter=false&multiline=false&repeat=false&random=false&width=200&height=40&lines=Contact" alt="Contacts" /> -->
   <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="mssql logo"  />
 <img width="12" />
