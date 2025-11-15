@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <div align="center">
+  <div align="left-center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=500&color=A7A459&center=truee&vCenter=truee&multiline=false&repeat=false&random=false&width=300&height=40&lines=Skills" alt="Skills" />
   </div>
   <br>
