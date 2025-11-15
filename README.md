@@ -26,11 +26,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=500&color=A7A459&center=truee&vCenter=falsee&multiline=false&repeat=false&random=false&width=450&height=40&lines=Tools" alt="Tools" />
   <br>
 <!-- Excel -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" height="35" alt="Excel" />
+<img src="https://cdn.statically.io/gh/devicons/devicon/master/icons/excel/excel-original.svg" height="35" alt="Excel" />
 
 <!-- Power BI -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" height="35" alt="Power BI" />
-</div>
+<img src="https://cdn.statically.io/gh/devicons/devicon/master/icons/powerbi/powerbi-original.svg" height="35" alt="Power BI" />
 <br> <br>
 
 <div align = center>
