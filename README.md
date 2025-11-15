@@ -77,7 +77,7 @@
 <br> <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=A7A459&center=false&vCenter=false&multiline=false&repeat=false&random=false&width=450&height=40&lines=BI+%26+VisualizationTools" alt="Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=3000&pause=500&color=A7A459&center=false&vCenter=false&multiline=false&repeat=false&random=false&width=450&height=40&lines=Tools" alt="Tools" />
   <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="powerbi logo"  />
 <img width="12" />
