@@ -23,7 +23,9 @@
 <br> <br>
 
 <div align="center">
+  <div align ="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=500&color=A7A459&center=truee&vCenter=falsee&multiline=false&repeat=false&random=false&width=450&height=40&lines=Tools" alt="Tools" />
+  </div>
   <br>
 <!-- Excel -->
 <img src="https://cdn.statically.io/gh/devicons/devicon/master/icons/excel/excel-original.svg" height="35" alt="Excel" />
