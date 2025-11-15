@@ -13,7 +13,7 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=40&duration=3000&pause=500&color=A7A459&center=false&vCenter=false&multiline=false&repeat=false&random=false&width=300&height=40&lines=Skills" alt="Skills" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=500&color=A7A459&center=false&vCenter=true&multiline=false&repeat=false&random=false&width=300&height=40&lines=Skills" alt="Skills" />
   </div>
   <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="mssql logo"  />
